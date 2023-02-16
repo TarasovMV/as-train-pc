@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 226b3ce1d2ee21d4785f78ef082f449a
+timeCreated: 1529264573
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: EuropeC
+  fontNames:
+  - EuropeC
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
